@@ -1,7 +1,9 @@
 tensorflow
-pandas
+streamlit
 numpy
 matplotlib
 nltk
 scikit-learn
 tensorboard
+ipykernel
+pandas
